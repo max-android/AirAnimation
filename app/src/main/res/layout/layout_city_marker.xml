@@ -1,0 +1,22 @@
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/markerCityTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/marker_background"
+        android:padding="8dp"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        app:fontFamily="@font/roboto_medium"
+        tools:text="ASD">
+    </androidx.appcompat.widget.AppCompatTextView>
+</androidx.appcompat.widget.LinearLayoutCompat>
+
+
+
+

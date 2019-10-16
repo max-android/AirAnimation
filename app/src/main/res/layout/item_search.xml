@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:foreground="?selectableItemBackground"
+    android:background="@color/white"
+    android:padding="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/townTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/normal_text_size"
+        android:fontFamily="@font/roboto_medium"
+        android:textColor="@color/black" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/fullNameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/small_text_size"
+        android:fontFamily="@font/roboto_regular"
+        android:textColor="@color/black"
+        android:layout_marginTop="8dp" />
+</androidx.appcompat.widget.LinearLayoutCompat>

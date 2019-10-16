@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770356339972",
+    "firebase_url": "https://airanimation-8cc2d.firebaseio.com",
+    "project_id": "airanimation-8cc2d",
+    "storage_bucket": "airanimation-8cc2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770356339972:android:ff0aa6a3b9e77173011c51",
+        "android_client_info": {
+          "package_name": "com.my_project.airanimation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770356339972-qsjvve9072tv3ecdbvo5m95vf0odrfq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFIy3scp4mV9zlJ_TOd1dhlK6jrJO3wRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770356339972-qsjvve9072tv3ecdbvo5m95vf0odrfq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AirAnimation</string>
+
+    <!--dialogs-->
+    <string name="positive_value">ДА</string>
+    <string name="negative_value">НЕТ</string>
+    <string name="ok_value">ОК</string>
+    <string name="cancel_value">ОТМЕНА</string>
+    <string name="no_connect">Нет соединения!</string>
+    <string name="no_connect_message">Для работы приложения необходимо подключить связь</string>
+
+    <!--Introduction-->
+    <string name="search_avia">Поиск авиабилетов</string>
+    <string name="from_fly">Откуда вылет</string>
+    <string name="to_fly">Куда лететь</string>
+    <string name="search_tickets">Найти билеты</string>
+
+    <!--Search-->
+    <string name="search">Поиск</string>
+    <string name="search_hint">Поиск города</string>
+
+</resources>
